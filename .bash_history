@@ -123,3 +123,9 @@ vim shellscript2.sh
 ./shellscript2.sh
 vim shellscript2.sh
 ./shellscript2.sh
+clear
+[200~git add .
+git add .
+git commit -m "Initial commit with shell scripts"
+git push -u origin master
+git push -u origin main

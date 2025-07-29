@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1753630617,,"wq!"
+|2,0,1753816443,,"wq!"
+:q!
+|2,0,1753815418,,"q!"
 :qw!
 |2,0,1753629456,,"qw!"
-:q!
-|2,0,1753615244,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -29,230 +29,251 @@
 # Registers:
 
 # File marks:
-'0  6  30  ~/shellscript2.sh
-|4,48,6,30,1753630617,"~/shellscript2.sh"
-'1  2  81  ~/shellscript2.sh
-|4,49,2,81,1753630510,"~/shellscript2.sh"
-'2  5  11  ~/shellscript2.sh
-|4,50,5,11,1753630510,"~/shellscript2.sh"
-'3  7  0  ~/shellscript2.sh
-|4,51,7,0,1753630472,"~/shellscript2.sh"
-'4  7  0  ~/shellscript2.sh
-|4,52,7,0,1753630472,"~/shellscript2.sh"
-'5  6  0  ~/shellscript2.sh
-|4,53,6,0,1753630472,"~/shellscript2.sh"
-'6  6  0  ~/shellscript2.sh
-|4,54,6,0,1753630472,"~/shellscript2.sh"
-'7  2  96  ~/shellscript2.sh
-|4,55,2,96,1753630312,"~/shellscript2.sh"
-'8  7  26  ~/shellscript2.sh
-|4,56,7,26,1753630312,"~/shellscript2.sh"
-'9  2  96  ~/shellscript2.sh
-|4,57,2,96,1753630312,"~/shellscript2.sh"
+'0  42  26  ~/listuser.sh
+|4,48,42,26,1753816443,"~/listuser.sh"
+'1  12  24  ~/listuser.sh
+|4,49,12,24,1753815516,"~/listuser.sh"
+'2  12  24  ~/listuser.sh
+|4,50,12,24,1753815516,"~/listuser.sh"
+'3  42  5  ~/listuser.sh
+|4,51,42,5,1753815418,"~/listuser.sh"
+'4  42  5  ~/listuser.sh
+|4,52,42,5,1753815418,"~/listuser.sh"
+'5  42  5  ~/listuser.sh
+|4,53,42,5,1753815418,"~/listuser.sh"
+'6  14  5  ~/listuser.sh
+|4,54,14,5,1753814155,"~/listuser.sh"
+'7  14  5  ~/listuser.sh
+|4,55,14,5,1753814155,"~/listuser.sh"
+'8  14  5  ~/listuser.sh
+|4,56,14,5,1753814155,"~/listuser.sh"
+'9  14  5  ~/listuser.sh
+|4,57,14,5,1753814155,"~/listuser.sh"
 
 # Jumplist (newest first):
+-'  42  26  ~/listuser.sh
+|4,39,42,26,1753816443,"~/listuser.sh"
+-'  12  24  ~/listuser.sh
+|4,39,12,24,1753816301,"~/listuser.sh"
+-'  12  24  ~/listuser.sh
+|4,39,12,24,1753815516,"~/listuser.sh"
+-'  42  5  ~/listuser.sh
+|4,39,42,5,1753815421,"~/listuser.sh"
+-'  42  5  ~/listuser.sh
+|4,39,42,5,1753815418,"~/listuser.sh"
+-'  14  5  ~/listuser.sh
+|4,39,14,5,1753815373,"~/listuser.sh"
+-'  14  5  ~/listuser.sh
+|4,39,14,5,1753815373,"~/listuser.sh"
+-'  14  5  ~/listuser.sh
+|4,39,14,5,1753815373,"~/listuser.sh"
+-'  14  5  ~/listuser.sh
+|4,39,14,5,1753814155,"~/listuser.sh"
+-'  14  5  ~/listuser.sh
+|4,39,14,5,1753814088,"~/listuser.sh"
+-'  1  0  ~/listuser.sh
+|4,39,1,0,1753813859,"~/listuser.sh"
+-'  1  0  ~/listuser.sh
+|4,39,1,0,1753813859,"~/listuser.sh"
+-'  1  0  ~/listuser.sh
+|4,39,1,0,1753813859,"~/listuser.sh"
+-'  1  0  ~/listuser.sh
+|4,39,1,0,1753813859,"~/listuser.sh"
+-'  1  0  ~/listuser.sh
+|4,39,1,0,1753813859,"~/listuser.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
+-'  6  30  ~/shellscript2.sh
+|4,39,6,30,1753630617,"~/shellscript2.sh"
 -'  6  30  ~/shellscript2.sh
 |4,39,6,30,1753630617,"~/shellscript2.sh"
 -'  2  81  ~/shellscript2.sh
 |4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
+-'  2  81  ~/shellscript2.sh
+|4,39,2,81,1753630516,"~/shellscript2.sh"
 -'  5  11  ~/shellscript2.sh
 |4,39,5,11,1753630510,"~/shellscript2.sh"
--'  7  0  ~/shellscript2.sh
-|4,39,7,0,1753630481,"~/shellscript2.sh"
--'  6  0  ~/shellscript2.sh
-|4,39,6,0,1753630481,"~/shellscript2.sh"
--'  6  0  ~/shellscript2.sh
-|4,39,6,0,1753630472,"~/shellscript2.sh"
--'  4  41  ~/shellscript2.sh
-|4,39,4,41,1753630372,"~/shellscript2.sh"
--'  4  41  ~/shellscript2.sh
-|4,39,4,41,1753630372,"~/shellscript2.sh"
--'  6  26  ~/shellscript2.sh
-|4,39,6,26,1753630312,"~/shellscript2.sh"
--'  1  0  ~/shellscript2.sh
-|4,39,1,0,1753630061,"~/shellscript2.sh"
--'  1  0  ~/shellscript2.sh
-|4,39,1,0,1753630061,"~/shellscript2.sh"
--'  1  0  ~/shellscript2.sh
-|4,39,1,0,1753630061,"~/shellscript2.sh"
--'  1  0  ~/shellscript2.sh
-|4,39,1,0,1753630061,"~/shellscript2.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  8  3  ~/shellsample.sh
-|4,39,8,3,1753629631,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  4  107  ~/shellsample.sh
-|4,39,4,107,1753629562,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  9  2  ~/shellsample.sh
-|4,39,9,2,1753629463,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753629162,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  8  0  ~/shellsample.sh
-|4,39,8,0,1753628856,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
--'  5  66  ~/shellsample.sh
-|4,39,5,66,1753628768,"~/shellsample.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
+-'  5  11  ~/shellscript2.sh
+|4,39,5,11,1753630510,"~/shellscript2.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/listuser.sh
+	*	1753816433	0
+	"	42	26
+	^	42	27
+	.	42	27
+	+	42	27
+	+	6	27
+	+	7	19
+	+	8	6
+	+	14	8
+	+	14	6
+	+	42	8
+	+	42	6
+	+	11	23
+	+	12	10
+	+	11	13
+	+	12	12
+	+	8	12
+	+	7	18
+	+	42	27
 
 > ~/shellscript2.sh
 	*	1753630614	0
